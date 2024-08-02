@@ -45,7 +45,7 @@ Desafio 3, Exercício 5 <br>
 Desafio 4, Exercício 5 <br>
 
 
-#### [Marina Caponera Silva](https://github.com/mcaponera)
+#### Marina Caponera Silva
 
 Desafio 1 - Exercício 6<br>
 Desafio 2 - Exercício 6<br>
@@ -53,7 +53,7 @@ Desafio 3 - Exercício 6<br>
 Desafio 4 - Exercício 6<br>
 
 
-#### [Natália do Nascimento da Costa](https://github.com/nataliannc)
+#### Natália do Nascimento da Costa
 
 Desafio 1, Exercício 7<br>
 Desafio 2, Exercício 7<br>
