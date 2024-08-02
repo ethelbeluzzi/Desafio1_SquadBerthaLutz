@@ -47,18 +47,18 @@ Desafio 4, Exercício 5 <br>
 
 #### [Marina Caponera Silva](https://github.com/mcaponera)
 
-[Desafio 1 - Exercício 6](1-conceitos-basicos/6_tempo_viagem.py) <br>
-[Desafio 2 - Exercício 6](2-tomada-decisao-estruturas-repeticao/6_login.py) <br>
-[Desafio 3 - Exercício 6](3-listas-tuplas-dicionarios/6_nome_invertido.py) <br>
-[Desafio 4 - Exercício 6](4-funcoes/6_forca.py) <br>
+Desafio 1 - Exercício 6<br>
+Desafio 2 - Exercício 6<br>
+Desafio 3 - Exercício 6<br>
+Desafio 4 - Exercício 6<br>
 
 
 #### [Natália do Nascimento da Costa](https://github.com/nataliannc)
 
-Desafio 1, [Exercício 7](1-conceitos-basicos/7_imc.py) <br>
-Desafio 2, [Exercício 7](2-tomada-decisao-estruturas-repeticao/7_idade.py) <br>
-Desafio 1, [Exercício 8](1-conceitos-basicos/8_salario_mensal.py) <br>
-Desafio 2, [Exercício 8](2-tomada-decisao-estruturas-repeticao/8_maior_que.py) <br>
+Desafio 1, Exercício 7<br>
+Desafio 2, Exercício 7<br>
+Desafio 1, Exercício 8<br>
+Desafio 2, Exercício 8<br>
 
 
 #### Sofia Nakamaru 
